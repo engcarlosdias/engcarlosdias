@@ -16,7 +16,7 @@
 
 </div> <br/>
 
-Atualmente sou estudante de engenharia Elétrica, técnico em sistemas de energia renovável, COO & Cofounder da Healthways Startup, Coordenador de projetos do CREA jr. PE e voluntário do programa #tmjunicef. <br/>
+Atualmente sou estudante de Engenharia Elétrica, técnico em sistemas de energia renovável, COO & Cofounder da Healthways Startup, Coordenador de projetos do CREA jr. PE e voluntário do programa #tmjunicef. <br/>
 
 Sou fascinado por tecnologia, especialmente pelos modelos de AI, além de buscar me aprimorar em gestão de projetos. <br/>
 
