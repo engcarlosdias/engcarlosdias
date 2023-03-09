@@ -13,7 +13,13 @@
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img align="center" alt="c++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
- <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    <img align="center" alt="Lightroom" src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white">
+    <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
+    <img align="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">
+
+    
 
 
 </div> <br/>
@@ -21,6 +27,7 @@
 Atualmente sou estudante de engenharia Elétrica, técnico em sistemas de energia renovável, COO & Cofounder da Healthways Startup, Coordenador de projetos do CREA jr. PE e voluntário do programa #tmjunicef. <br/>
 
 Sou fascinado por tecnologia, especialmente pelos modelos de AI, além de buscar me aprimorar em gestão de projetos. <br/>
+
 
 ### Conheça a Healthways Startup 
 [![Healthways](https://user-images.githubusercontent.com/127410454/224084091-778ff4d1-d6ab-4376-9dcc-2bf2c95b2c75.png)](https://www.instagram.com/healthways_hws/)
