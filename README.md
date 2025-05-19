@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/eng_carlosdias/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlosgdias?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2Flixc07cS2miKTUCrVa6yQ%3D%3D)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/engcarlosdias)
 <a href = "mailto:engenhariacarlosdias@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 ![Carlos Dias GitHub stats](https://github-readme-stats.vercel.app/api?username=engcarlosdias&show_icons=true&theme=dark)
@@ -24,11 +23,9 @@
 
 </div> <br/>
 
-Atualmente sou estudante de engenharia Elétrica, técnico em sistemas de energia renovável, COO & Cofounder da Healthways Startup, Coordenador de projetos do CREA jr. PE e voluntário do programa #tmjunicef. <br/>
+Atualmente sou estudante de engenharia Elétrica e técnico em sistemas de energia renovável <br/>
 
 Sou fascinado por tecnologia, especialmente pelos modelos de AI, além de buscar me aprimorar em gestão de projetos. <br/>
 
 
 ### Conheça a Healthways Startup 
-[![Healthways](https://user-images.githubusercontent.com/127410454/224084091-778ff4d1-d6ab-4376-9dcc-2bf2c95b2c75.png)](https://www.instagram.com/healthways_hws/)
-##### Clique na imagem e acesse o nosso instagram
