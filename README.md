@@ -27,5 +27,3 @@ Atualmente sou estudante de engenharia Elétrica e técnico em sistemas de energ
 
 Sou fascinado por tecnologia, especialmente pelos modelos de AI, além de buscar me aprimorar em gestão de projetos. <br/>
 
-
-### Conheça a Healthways Startup 
